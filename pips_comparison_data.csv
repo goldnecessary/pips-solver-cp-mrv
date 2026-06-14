@@ -1,0 +1,6 @@
+Dominoes,Cells,Regions,Opt_Nodes,Opt_TimeMs,Opt_Status,Naive_Nodes,Naive_TimeMs,Naive_Status,CP_Nodes,CP_TimeMs,CP_Status,CP_MRV_Nodes,CP_MRV_TimeMs,CP_MRV_Status
+16,32,12,N/A,58579.987,Timeout,N/A,36756.669,Timeout
+16,32,12,3181184,33942.342,Success,9425,159.291,Success
+16,32,12,N/A,43542.784,Timeout,5319,141.246,Success
+16,32,11,N/A,59079.588,Timeout,N/A,33192.493,Timeout
+16,32,11,N/A,27173.644,Timeout,N/A,29262.117,Timeout
